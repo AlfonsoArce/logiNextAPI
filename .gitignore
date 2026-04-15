@@ -1,3 +1,6 @@
+# restricted
+docs/samples/ltcs/
+
 # macOS
 .DS_Store
 .AppleDouble
